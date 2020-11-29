@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skeet X", "WindowsFormsApp6\Skeet X.csproj", "{0BB09576-64D4-459E-B0A9-E2579DB7F472}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BB09576-64D4-459E-B0A9-E2579DB7F472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB09576-64D4-459E-B0A9-E2579DB7F472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB09576-64D4-459E-B0A9-E2579DB7F472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB09576-64D4-459E-B0A9-E2579DB7F472}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8863EA41-C470-486E-AE5A-DE1BEB089F6C}
+	EndGlobalSection
+EndGlobal
